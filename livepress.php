@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: LivePress
+Plugin Name: LivePress!
 Plugin URI:
 Description: Enables wordpress...
 Version: 3.0.1
