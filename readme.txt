@@ -1,4 +1,4 @@
-=== Livepress_wp ===
+=== LivePress ===
 Contributors: Filipe Giusti
 Donate link: http://www.filipegiusti.com/
 Tags: comments, spam
