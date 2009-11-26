@@ -4,7 +4,7 @@ Donate link: http://www.filipegiusti.com/
 Tags: comments, spam
 Requires at least: 2.8
 Tested up to: 2.8.6
-Stable tag: 0.4
+Stable tag: 3.0.1
 
 Here is a short description of the plugin.  This should be no more than 150 chars.  No markup here.
 
