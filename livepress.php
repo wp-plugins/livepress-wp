@@ -3,7 +3,7 @@
 Plugin Name: LivePress!
 Plugin URI:
 Description: Enables wordpress...
-Version: 3.0.1
+Version: 3.0.2
 Author: Me
 Author URI: http://www.filipegiusti.com
 */
